@@ -1,0 +1,2 @@
+# Predictive-Motor-Fault-Detection-Using-PolarFire-SoC-Discovery-Kit
+This project uses the PolarFire SoC Discovery Kit to detect motor faults through vibration and acoustic analysis. FPGA hardware accelerates filtering, FFT, and feature extraction, while the RISC-V processor classifies conditions as Normal, Bearing Fault, Imbalance, or Misalignment, enabling efficient real-time monitoring and predictive maintenance.
